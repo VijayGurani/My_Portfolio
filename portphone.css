@@ -1,0 +1,129 @@
+.home{
+   
+    height: 600px;
+    width: 100%;
+}
+.home-content{
+  
+    margin-top: 140px;
+}
+.home-logo{
+   font-size: 25px;
+}
+.home img{
+    margin-left: 40px;
+    width: 340px;
+    height: 356px;
+}
+.logo{
+    font-size: 36px;
+}
+.home-content p{
+    font-size: 25px;
+}
+.home-content h3{
+    font-size: 30px;
+}
+
+.navbar a{
+   font-size: 28px;
+}
+.home .img1{
+   
+    height: 56px;
+    width: 0px;
+    /* border: 2px solid black; */
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+.btn{
+    font-size: 22px;
+}
+.about-img img {
+    padding-bottom: 20%;
+    padding-left: 0px;
+    height: 340px;
+    max-width: 340px;
+    width: 343px;
+    filter: drop-shadow(12px 9px 48px rgb(8, 8, 8));
+    object-fit: contain;
+    margin-top: 20px;
+}
+.about-txt{
+    margin-top: 46px;
+    width: 300px;
+}
+.about-txt p{
+
+    /* font-weight: 600; */
+    font-size: 28px;
+}
+.about-txt h4{
+    font-size: 34px;
+    line-height: 42px;
+    
+}
+.container {
+    padding: 80px;
+    width: 719px;
+    margin-left: 60px;
+}
+.container p{
+
+    font-size: 24px;
+}
+.service-list .butt a{
+    font-size: 24px;
+}
+.container1{
+    width: 600px;
+}
+.bars{
+    flex-direction: column;
+}
+.container1 {
+    width: 600px;
+    margin-left: 100px;
+}
+.skil{
+    margin-left: 300px;
+}
+.bar{
+    font-size: 90px;
+    padding: 15px 30px;
+    margin: 0 40px;
+}
+.bars .bar span{
+    font-size: 30px;
+}
+.me{
+margin-left: 140px;
+font-size: 30px;
+}
+.me input,textarea{
+
+    padding: 15px 30px;
+}
+.no {
+    margin-left: 380px;
+}
+.no li{
+    color: aqua;
+    list-style: none;
+    font-size: 28px;
+}
+#contact h1{
+
+    margin-left: 300px;
+    text-align: center;
+}
+.foot{
+    font-size: 30px;
+    width: 900px;
+    margin-top: 180px;
+}
+.but {
+    font-size: 30px;
+
+}
