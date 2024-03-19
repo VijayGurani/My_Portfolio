@@ -97,33 +97,20 @@
 .bars .bar span{
     font-size: 30px;
 }
-.me{
-margin-left: 140px;
-font-size: 30px;
-}
-.me input,textarea{
-
-    padding: 15px 30px;
+#contact{
+    margin-left: 80%
 }
 .no {
-    margin-left: 380px;
-}
-.no li{
-    color: aqua;
-    list-style: none;
-    font-size: 28px;
-}
-#contact h1{
-
-    margin-left: 300px;
-    text-align: center;
+    margin-top: 160px;
+    padding-left: 38px;
 }
 .foot{
-    font-size: 30px;
-    width: 900px;
-    margin-top: 180px;
+    width: 800px;
 }
-.but {
-    font-size: 30px;
-
+.about-img{
+    margin-top: 50px;
+}
+.about-txt{
+    margin-top: 100px;
+    margin-left: 50px;
 }

@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family:'poppins',sans-serif;
 }
-#about,#skills{
+#about,#skills,#contact{
     scroll-margin-top: 80px;
 }
 html{
@@ -344,25 +344,27 @@ body{
 .txtme span{
     color: rgb(248, 70, 70);
 }
-.me{
-    position: absolute;
+.hole{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
+}
+.me{
+  line-height: 2rem;
     font-size: 22px;
-    margin-bottom: 20px;
-    margin-left: 400px;
+    margin-left: 140px;
     
 }
 .me textarea,input{
- padding: 6px 10px;
- border: 2px solid black;
- border-radius: 6px;
- background-color: #f8f1f1;
- 
-}
-.but{
-    font-size: 20px;
+    padding: 6px 10px;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: #f8f1f1;
+   
+    
+   }
+   .but{
+    font-size: 18px;
     font-weight: 500;
     padding: 6px 20px;
     margin: 8px 0;
@@ -372,22 +374,19 @@ body{
     letter-spacing: 1px;
     
 }
-form div{
-    padding: 2px 0;
-}
 .but:hover{
     background-color: #08f7f7;
     box-shadow: 0 0 24px rgb(7, 247, 247);
 }
+form div{
+    padding: 2px 0;
+}
 .no{
-    position: relative;
-     width: 400px;
-    /*padding-top: 260px;
-    padding-left: 50px; */
-    margin-left: 700px;
-    margin-top: 258px;
-
-    
+    margin-top: 160px;
+    width: 250px;
+  
+    margin-right: 80px;
+    /* border: 2px solid black; */
 }
 .no li{
     color: aqua;
@@ -405,12 +404,6 @@ form div{
     margin: 8px 2px;
     
 }
-.hole{
-    position: relative;
-    display: flex;
-    /* align-items: center; */
-    /* justify-content: center; */
-}
 .foot{
     margin-top: 50px;
     width: 100%;
@@ -420,5 +413,3 @@ form div{
     /* padding: 2px 0; */
 
 }
-  
-
