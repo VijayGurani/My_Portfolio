@@ -101,8 +101,13 @@
     margin-left: 80%
 }
 .no {
-    margin-top: 160px;
-    padding-left: 38px;
+    position: absolute;
+    margin-top: 153px;
+}
+.me {
+    line-height: 2rem;
+    font-size: 22px;
+    margin-left: 446px;
 }
 .foot{
     width: 800px;
