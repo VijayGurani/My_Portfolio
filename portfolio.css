@@ -4,8 +4,8 @@
     box-sizing: border-box;
     font-family:'poppins',sans-serif;
 }
-#about,#skills,#contact{
-    scroll-margin-top: 80px;
+#about,#skills,#contact,#Services{
+    scroll-margin-top: 112px;
 }
 html{
     scroll-behavior: smooth;
